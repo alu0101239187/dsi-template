@@ -1,10 +1,11 @@
 {
-  "name": "dsi-template",
+  "name": "dsi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/index.js\""
+    "start": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "doc": "typedoc"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.8.0",
     "prettier": "^2.8.6",
-    "tsc-watch": "^6.0.0"
+    "tsc-watch": "^6.0.0",
+    "typedoc": "^0.23.28"
   }
 }
