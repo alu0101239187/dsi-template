@@ -4,7 +4,9 @@
 
 ### alu0101239187@ull.edu.es
 
-[![Node.js CI](https://github.com/alu0101239187/dsi-template/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101239187/dsi-template/actions/workflows/node.js.yml)
+[![tests](https://github.com/alu0101239187/dsi-template/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101239187/dsi-template/actions/workflows/node.js.yml)
+
+[![coveralls](https://github.com/alu0101239187/dsi-template/actions/workflows/coveralls.yml/badge.svg)](https://github.com/alu0101239187/dsi-template/actions/workflows/coveralls.yml)
 
 ## Índice
 
