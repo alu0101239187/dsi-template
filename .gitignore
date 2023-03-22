@@ -40,7 +40,5 @@ dist
 # ignore yarn.lock
 yarn.lock
 
-package-lock.json
-
 # coveralls
 .nyc_output
