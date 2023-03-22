@@ -8,6 +8,8 @@
 
 [![coveralls](https://github.com/alu0101239187/dsi-template/actions/workflows/coveralls.yml/badge.svg)](https://github.com/alu0101239187/dsi-template/actions/workflows/coveralls.yml)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=alu0101239187_dsi-template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=alu0101239187_dsi-template)
+
 ## Índice
 
 - [Introducción]()
